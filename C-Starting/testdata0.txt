@@ -1,0 +1,1 @@
+Int : 31  Float : 31.232130   Char : P
