@@ -10,6 +10,7 @@ int main()
 
     FILE *fp; //file pointeri olusturuldu.
 
+
     fp = fopen("testdata0.txt","w"); //fopen ile file write modunda acıldı.
     fprintf(fp,"Int : %d  Float : %f   Char : %c",a,b,c); //fprintf ile file üzerine yazildi.
 
